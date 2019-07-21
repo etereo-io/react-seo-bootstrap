@@ -1,0 +1,11 @@
+@import '~styles/colors';
+@import '~styles/media-queries';
+@import '~styles/layout';
+
+.home {
+  .content {
+    max-width: $content-max-width;
+    margin: 0 auto;
+    padding: 15px 0;
+  }
+}
