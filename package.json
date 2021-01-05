@@ -6,7 +6,7 @@
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
     "@babel/register": "^7.8.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-preset-react-app": "^9.1.1",
     "express": "^4.17.1",
     "ignore-styles": "^5.0.1",
